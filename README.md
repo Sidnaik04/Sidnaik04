@@ -6,8 +6,16 @@
 - 📫 How to reach me naiksidhant04@gmail.com
 - 🍱 My bento: [bento.me/sidnaik ](https://bento.me/sidnaik)
 
-[![Sidhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidnaik04&show_icons=true&theme=radical)](https://github.com/Sidnaik04/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidnaik04&langs_count=3&theme=radical)
+<!--- For language-stats --->
+<div align="center">
+  <a href="https://github.com/Sidnaik04/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sidnaik04&show_icons=true&theme=radical" alt="Sidhant's GitHub stats">
+  </a>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidnaik04&langs_count=3&theme=radical" alt="Top Langs">
+</div>
 
+<!--- For streak-stats --->
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidnaik04&show_icons=true&theme=radical" alt="GitHub Streak">
