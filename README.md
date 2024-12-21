@@ -8,7 +8,7 @@
 
 [![Sidhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidnaik04&show_icons=true&theme=radical)](https://github.com/Sidnaik04/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidnaik04&langs_count=3&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sidnaik04)](https://git.io/streak-stats)
+<div align="center" markdown="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sidnaik04&show_icons=true&theme=radical)](https://git.io/streak-stats)"></div>
 
 
 <!---
