@@ -11,7 +11,6 @@
   <a href="https://github.com/Sidnaik04/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Sidnaik04&show_icons=true&theme=radical" alt="Sidhant's GitHub stats">
   </a>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidnaik04&langs_count=3&theme=radical" alt="Top Langs">
 </div>
 
