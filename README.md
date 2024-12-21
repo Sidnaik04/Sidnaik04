@@ -6,9 +6,9 @@
 - 📫 How to reach me naiksidhant04@gmail.com
 - 🍱 My bento: [bento.me/sidnaik ](https://bento.me/sidnaik)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
 [![Sidhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidnaik04&show_icons=true&theme=radical)](https://github.com/Sidnaik04/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidnaik04&langs_count=3&theme=radical)
+
+<div align="center" markdown="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)"></div>
 
 
 <!---
