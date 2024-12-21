@@ -5,7 +5,7 @@
 - 📫 How to reach me naiksidhant04@gmail.com
 - 🍱 My bento: [bento.me/sidnaik ](https://bento.me/sidnaik)
 
-[![Sidhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidnaik04&show_icons=true&theme=radical)](https://github.com/Sidnaik04/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidnaik04&langs_count=5&theme=radical)
+[![Sidhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidnaik04&show_icons=true&theme=radical)](https://github.com/Sidnaik04/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidnaik04&langs_count=4&theme=radical)
 
 
 <!---
