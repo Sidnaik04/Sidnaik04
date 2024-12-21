@@ -1,4 +1,4 @@
-[![MasterHead](https://postimg.cc/w3sYwPdw)](https://github.com/Sidnaik04)
+[![MasterHead](https://i.postimg.cc/9XLXQ5gH/beauty.png)](https://github.com/Sidnaik04)
 - 👋 Hi, I’m @Sidnaik04
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Web development
