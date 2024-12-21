@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/9XLXQ5gH/beauty.png)]
+![MasterHead](https://i.postimg.cc/9XLXQ5gH/beauty.png)
 - 👋 Hi, I’m @Sidnaik04
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Web development
