@@ -1,52 +1,83 @@
-<div align="center">
-  <h1>Hi, I'm Sidhant 👋 </h1>
-</div>
+# 💫 About Me:
 
 <div align="center"> 
-    <img height="450" src="https://i.postimg.cc/9XLXQ5gH/beauty.png" >
-</div>
-
-<br>
-<!-- Bio --->
-<div align="center">
-  <p>I'm a 3rd year student pursuing Bachelor in Information Technology 👨‍💻 from Goa Engineering College 🏢. I'm a passionate learner who's always willing to learn and work accross technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 😁. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms skills 🤓.</p>
+    <img height="450" src="https://i.postimg.cc/9XLXQ5gH/beauty.png" alt="Profile Image">
 </div>
 
 <br>
 
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Bento.me-yellow?style=for-the-badge&logo=bento&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
+<div align="left">
+    <li>3rd-year IT student at Goa Engineering College 🏢.</li>
+    <li>Passionate about learning and exploring tech 💡, solving real-life problems ✨, and mentoring newbies 😁.</li>
+    <li>Currently diving into Web Development 🕸️ and sharpening my DSA skills 🤓.</li>
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sidnaik04&color=blue">
-</div>
-
-
-<h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
 
 <br>
-<!--- For language-stats --->
+
 <div align="center">
-  <a href="https://github.com/Sidnaik04/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Sidnaik04&show_icons=true&theme=radical" alt="Sidhant's GitHub stats">
-  </a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidnaik04&langs_count=3&theme=radical&card_width=320" alt="Top Langs">
-</div>
-<br>
-<!--- For streak-stats --->
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidnaik04&show_icons=true&theme=radical" alt="GitHub Streak">
-  </a>
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=Sidnaik04&icon=3&color=0" alt="Profile Visit Count">
+    </a>
 </div>
 
+---
+
+## 🌐 Socials:
+<div align="center">
+    <a href="https://linkedin.com/in/sidhant-naik-887690256">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://x.com/De_AnoN04">
+        <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+    </a>
+</div>
+
+---
+
+# 💻 Tech Stack:
+
+<div align="center">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
+    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="Nodemon">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+    <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</div>
+
+---
+
+# 📊 GitHub Stats:
+
+<div align="center">
+    <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sidnaik04&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidnaik04&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="38%">
+</div>
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidnaik04&theme=radical&hide_border=false" alt="GitHub Streak">
+</div>
+
+---
+
+### ✍️ Random Dev Quote:
+
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Random Dev Quote">
+</div>
+
+---
 
 
 <!---
