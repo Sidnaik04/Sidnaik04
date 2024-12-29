@@ -16,7 +16,7 @@
 
 <div align="center">
     <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=Sidnaik04&icon=3&color=0" alt="Profile Visit Count">
+        <img src="https://komarev.com/ghpvc/?username=Sidnaik04&color=blue&style=for-the-badge" alt="Profile Visit Count">
     </a>
 </div>
 
