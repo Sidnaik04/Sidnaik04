@@ -1,9 +1,4 @@
 # 💫 About Me:
-
-<div align="center"> 
-    <img height="450" src="https://i.postimg.cc/9XLXQ5gH/beauty.png" alt="Profile Image">
-</div>
-
 <br>
 
 <div align="left">
