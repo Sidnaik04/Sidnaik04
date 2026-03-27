@@ -4,7 +4,7 @@
 <div align="left">
     <li>4th-year IT student at Goa Engineering College 🏢.</li>
     <li>Passionate about learning and exploring tech 💡, solving real-life problems ✨, and mentoring newbies 😁.</li>
-    <li>Currently focusing on Deep Learning🧠, PyTorch, Web 🕸️ and sharpening my DSA skills 🤓.</li>
+    <li>Currently focusing on Backend 🧠, Agentic AI 🕸️ and sharpening my DSA skills 🤓.</li>
 </div>
 
 <br>
