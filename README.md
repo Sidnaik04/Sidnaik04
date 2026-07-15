@@ -61,8 +61,8 @@
 
 <div align="center">
     <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sidnaik04&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="48%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidnaik04&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="38%">
+    <img src="https://github-stats-extended.vercel.app/api?username=Sidnaik04&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="48%">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sidnaik04&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="38%">
 </div>
     <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidnaik04&theme=radical&hide_border=false" alt="GitHub Streak">
